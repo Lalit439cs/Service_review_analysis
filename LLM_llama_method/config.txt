@@ -1,0 +1,12 @@
+[DEFAULT]
+debug = True
+
+[PATH]
+context_prompt_path = /home/dell/Desktop/SQL_equivalence/LLM_sql_equivalence/prompt/
+prompt_path = /home/dell/Desktop/SQL_equivalence/LLM_sql_equivalence/prompt/
+llm_path = /home/powerbert/LALIT_files/llama
+
+[FILE]
+prompt_file = prompt5.txt
+context_prompt_file = in_context.txt
+llm_name = llama_13b_hf_model
